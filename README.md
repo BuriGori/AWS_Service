@@ -7,5 +7,8 @@
   2. S3
   3. IAM
   4. RDS
-  5. ALB
-  6. ASG
+  5. DynamoDB
+  6. ALB
+  7. ASG
+  8. EB
+  9. Lambda
