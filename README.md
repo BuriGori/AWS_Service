@@ -17,4 +17,5 @@
 # GCP_Service
 
 - 기록 예정
-  1. Compute Engine
+  1. qwiklab
+  2. Compute Engine
