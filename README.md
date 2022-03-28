@@ -5,7 +5,7 @@
 - 기록 예정
   1. EC2 ✔
   2. S3
-  3. IAM
+  3. IAM ✔
   4. RDS
   5. DynamoDB
   6. ALB
