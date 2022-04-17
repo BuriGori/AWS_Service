@@ -25,6 +25,18 @@
 # OpenStack
 
 - 기록 예정
+  1. KeyStone
+  2. Glance
+  3. Cinder
+  4. Swift
+  5. Flavor
+  6. Floating IP
+  7. Nova
+  8. Heat
+  9. Neutron
+  10. Cellometer
+  11. Horizon
+
 
 ## 쿠버네티스
 
